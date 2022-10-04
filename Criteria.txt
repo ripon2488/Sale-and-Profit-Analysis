@@ -1,0 +1,23 @@
+Data Analytics and Visualization part :
+=======================================
+Download the data from the given named Financial Report. And build a dashboard using Data
+studio/ Tableau/ Power BI (Or any other platform of your choice). Preprocess data if necessary.
+a) Add necessary Filter/ Control in Dashboard (i.e.: date range, Country, Segment, Products etc.)
+b) Show Monthly Sales Trend
+c) Show month-to-month Growth %
+d) Show the sales and profit in different carts (i.e., by Country, products, segment etc.)
+e) Show discount induced Growth % (i.e., Did Discount result in better sales?)
+
+
+
+SQL Part :
+============================
+## Create Table on MySQL or PostgreSQL database Follow the SQL_Table.jpeg file -,
+then write query ::: 
+i) “select count(*) from users”, Write an optimized query against this.
+ii) View all users and employers who get maximum salary from each group?
+iii) You want to delete everything of Users, write a query.
+iv) Get the second highest salary from the Users table and which users get them.
+v) How to get distinct records from the Names from users table without using distinct keyword.
+vi) How to find the count of duplicate rows from a table?
+vii) Remove duplicates from users but keep one.
